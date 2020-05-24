@@ -1,3 +1,12 @@
+class Story{
+  String storyTitle,choice1,choice2;
+  Story(s1,s2,s3) {
+    storyTitle=s1;
+    choice1=s2;
+    choice2=s3;
+
+  }
+}
 //TODO: Step 2 - Create a new class called Story.
 
 //TODO: Step 3 - Create 3 properties for this class, A. storyTitle to store the story text. B. choice1 to store the text for choice 1, C. choice2 to store the text for choice 2.
